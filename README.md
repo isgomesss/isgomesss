@@ -3,6 +3,7 @@
 Estudante de Engenharia de Software
 Em busca de uma oportunidade de estágio, onde eu possa aplicar meus conhecimentos, aprender com profissionais da área e evoluir tanto técnica quanto profissionalmente.
 <div>
+
   <p>Linguagens</p>
 
   <href="https://beacons.al/isgomesss">
