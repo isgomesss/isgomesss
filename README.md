@@ -2,9 +2,10 @@
 
 Estudante de Engenharia de Software
 Em busca de uma oportunidade de estágio, onde eu possa aplicar meus conhecimentos, aprender com profissionais da área e evoluir tanto técnica quanto profissionalmente.
-<div>
 
-  <p>Linguagens</p>
+ <p>Linguagens</p>
+
+<div>
 
   <href="https://beacons.al/isgomesss">
    <img title="html5" align="center" alt="Rafa-HTML"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
