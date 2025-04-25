@@ -3,7 +3,6 @@
 Estudante de Engenharia de Software
 Em busca de uma oportunidade de estágio, onde eu possa aplicar meus conhecimentos, aprender com profissionais da área e evoluir tanto técnica quanto profissionalmente.
 
- <p>Linguagens</p>
 
 <div>
 
