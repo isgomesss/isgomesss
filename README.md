@@ -1,6 +1,6 @@
 ## Oii, eu sou a Isadora Gomes.
 
-- Estudante de Front-end
+- Estudante de Engenharia de Software
 
 <div>
   <href="https://beacons.al/isgomesss">
