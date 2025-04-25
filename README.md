@@ -1,4 +1,4 @@
-## Oii, eu sou a Isadora Gomes.
+## Oii, eu sou a Isadora Gomes. 👩‍💻
 
 - Estudante de Engenharia de Software
 
