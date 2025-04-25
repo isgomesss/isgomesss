@@ -8,6 +8,22 @@ Em busca de uma oportunidade de estágio, onde eu possa aplicar meus conheciment
    
 ## <p>Linguagens em desenvolvimento:</p>
 
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
    <img title="html5" align="center" alt="Rafa-HTML"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img title="css3" align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img 
@@ -27,6 +43,7 @@ Em busca de uma oportunidade de estágio, onde eu possa aplicar meus conheciment
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
    <div>
     
+
  ##
 
   <div>
